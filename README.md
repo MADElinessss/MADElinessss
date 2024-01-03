@@ -1,7 +1,7 @@
 ### Hi Hello 👋
 
-I'm student in 🇰🇷, Seoul
+🇰🇷, Seoul
 
-- 🔭 I’m currently studying in Apple Developer Academy @POSTECH
+- 🔭 I’m currently studying in Apple Developer Academy @POSTECH, SeSAC
 - ⚡ Fun fact: Unexpected major in English Linguistics & Literature
-- 👻 Major interest these days : iOS & Android
+- 👻 Major interest these days : iOS
