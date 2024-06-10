@@ -14,7 +14,7 @@ Feel free to reach out to me for collaborations or inquiries about my work.
 ### 1. 🍀 LottoDiary
 https://github.com/MADElinessss/LottoDiary
 (released only in Korea)
-![image](https://github.com/MADElinessss/MADElinessss/assets/88757043/862c8385-831c-4d44-a086-6368e679dbd7)
+![AppLogo](https://github.com/MADElinessss/MADElinessss/assets/88757043/d437c11b-f385-4781-9fb3-39699f6f9c6c)
 
 https://apps.apple.com/kr/app/%EB%A1%9C%EB%98%90%EC%9D%BC%EA%B8%B0-lottodiary-%EB%A1%9C%EB%98%90%EC%99%80-%EC%9D%BC%EA%B8%B0-%EA%B8%B0%EB%A1%9D%EC%9E%A5/id6479727804
 
