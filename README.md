@@ -21,7 +21,7 @@ Feel free to reach out to me for collaborations or inquiries about my work.
 ### 2. 🧡 BISDAM
 - (released and available in most countries)
 <a href="https://apps.apple.com/kr/app/%EB%B9%84%EC%8A%A4%EB%8B%B4-bisdam/id6470152960">
-    <img src="[https://github.com/MADElinessss/MADElinessss/assets/88757043/98eee649-8856-4764-93e2-499c7b34d1fc](https://github.com/MADElinessss/MADElinessss/assets/88757043/b6e12491-ab4d-4404-94f3-17f5ddc2f7b5)" width="300" />
+    <img src="https://github.com/MADElinessss/MADElinessss/assets/88757043/b6e12491-ab4d-4404-94f3-17f5ddc2f7b5" width="300" />
 </a>
 
 ### 3. 🚀 THE BOYAGE
