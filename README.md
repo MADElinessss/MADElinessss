@@ -26,8 +26,9 @@ Check lotto results via QR code or manual entry, generate and save lotto numbers
 Record daily entries with images and tags, and access settings for inquiries and privacy policies.
 
 (Released in South Korea only)
-[![download](https://github.com/MADElinessss/LottoDiary/assets/88757043/4525bb83-201e-4440-97f0-4b7cc3d8e666 | width=200)](https://apps.apple.com/kr/app/lottodiary/id6479727804)
-  
+[![image](https://github.com/MADElinessss/MADElinessss/assets/88757043/1d9e2fe2-f1e1-4092-be75-a15658db97a3)](https://apps.apple.com/kr/app/lottodiary/id6479727804)
+
+
 ### Screenshots
 <table>
 <tr>
