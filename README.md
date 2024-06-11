@@ -4,7 +4,6 @@ Currently working at IoT app services specialized for children's education.
 
 - 🔭 alumni from Apple Developer Academy @POSTECH🍎, SeSAC 4th🍀
 - ⚡ Fun fact: Unexpected major in English Linguistics & Literature
-- 👻 Major interest these days : iOS
 
 I am passionate about creating seamless and delightful user experiences through innovative iOS applications.
 With a background in UX design, I strive to understand user needs and incorporate them into the development process to build user-friendly and engaging apps.
