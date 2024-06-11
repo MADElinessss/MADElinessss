@@ -19,7 +19,7 @@ Feel free to reach out to me for collaborations or inquiries about my work.
 
 ### 2. 🧡 BISDAM
 - 2023, developed as a team, **@ALLWAY** (released and available in most countries)
-- This app has been featured as the App Store's **App of the Day**
+- This app has been featured as the App Store's **App of the Day** on Global Accessibility Awareness Day, 2024
 <a href="https://apps.apple.com/kr/app/%EB%B9%84%EC%8A%A4%EB%8B%B4-bisdam/id6470152960">
     <img src="https://github.com/MADElinessss/MADElinessss/assets/88757043/b6e12491-ab4d-4404-94f3-17f5ddc2f7b5" width="300" />
 </a>
@@ -27,6 +27,11 @@ Feel free to reach out to me for collaborations or inquiries about my work.
 ### 3. 🚀 THE BOYAGE
 https://github.com/MADElinessss/TheBoyage
 - 2024, **solo** developed (with real server, not released)
+
+### 4. 🐰 Sagak Sagak
+- 2023, developed as a team, **Alphacar** (released and available only in Korea)
+<a href="https://apps.apple.com/kr/app/sagaksagak/id6448937856">
+    <img src="https://github.com/MADElinessss/MADElinessss/assets/88757043/a1696ef7-4355-4882-b2e1-ffc035194042" width="300" />
 
 ### 👇🏻 Also Check out my numerous Mini Projects
 - https://github.com/MADElinessss/ShoppingListApp
