@@ -27,13 +27,13 @@ Feel free to reach out to me for collaborations or inquiries about my work.
 
 ### 3. 🚀 THE BOYAGE
 https://github.com/MADElinessss/TheBoyage
-
+- 2024, **solo** developed (with real server, not released)
 
 ### 👇🏻 Also Check out my numerous Mini Projects
 - https://github.com/MADElinessss/ShoppingListApp
 - https://github.com/MADElinessss/ReminderAppProject
 - https://github.com/MADElinessss/WeatherAppProject
-- https://github.com/MADElinessss/MediaProject
 - https://github.com/MADElinessss/CoinRecapAssignment
-
+- https://github.com/MADElinessss/MediaProject
+- https://github.com/MADElinessss/BeeringApp
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=maddie)]([벨로그링크](https://velog.io/@maddie/posts)https://velog.io/@maddie/posts)
