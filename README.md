@@ -7,7 +7,7 @@ Currently working at IoT app services specialized for children's education.
 
 I am passionate about creating seamless and delightful user experiences through innovative iOS applications.
 With a background in UX design, I strive to understand user needs and incorporate them into the development process to build user-friendly and engaging apps.
-Feel free to reach out to me for collaborations or inquiries about my work.
+Feel free to reach out to me for collaborations or inquiries about my work. 😊
 
 ## Major Projects
 ### 1. 🍀 LottoDiary
@@ -41,5 +41,6 @@ https://github.com/MADElinessss/TheBoyage
 - https://github.com/MADElinessss/MediaProject
 - https://github.com/MADElinessss/BeeringApp
 
+##  👇🏻 And Also Check out recent post in my velog
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=maddie)]([벨로그링크](https://velog.io/@maddie/posts)https://velog.io/@maddie/posts)
