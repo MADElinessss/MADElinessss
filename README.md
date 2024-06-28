@@ -1,6 +1,6 @@
 ## UX and People-Loving iOS Developer
 
-Currently working at IoT app services specialized for children's education.
+Currently working at IoT app services specialized for children's education in Seoul, Korea.
 
 - 🔭 alumni from Apple Developer Academy @POSTECH🍎, SeSAC 4th🍀
 - ⚡ Fun fact: Unexpected major in English Linguistics & Literature
