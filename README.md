@@ -7,7 +7,7 @@ Currently working at IoT app services specialized for children's education in Se
 
 I am passionate about creating seamless and delightful user experiences through innovative iOS applications.
 With a background in UX design, I strive to understand user needs and incorporate them into the development process to build user-friendly and engaging apps.
-Feel free to reach out to me for collaborations or inquiries about my work. 😊
+Feel free to reach out to me for collaborations or inquiries about my work. Hit me up anytime😊
 
 ## Major Projects
 ### 1. 🍀 LottoDiary
