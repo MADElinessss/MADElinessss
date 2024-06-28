@@ -34,6 +34,7 @@ https://github.com/MADElinessss/TheBoyage
     <img src="https://github.com/MADElinessss/MADElinessss/assets/88757043/a1696ef7-4355-4882-b2e1-ffc035194042" width="300" />
 
 ### 👇🏻 Also Check out my numerous Mini Projects
+- https://github.com/MADElinessss/SeSACShoppingApp
 - https://github.com/MADElinessss/ShoppingListApp
 - https://github.com/MADElinessss/ReminderAppProject
 - https://github.com/MADElinessss/WeatherAppProject
