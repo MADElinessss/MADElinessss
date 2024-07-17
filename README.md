@@ -1,6 +1,6 @@
 ## UX and People-Loving iOS Developer
 
-- 2024.5 ~ currently working as an iOS Developer in PLEDO Inc., IoT app service specialized for children's education, in Seoul, Korea.
+- **2024.5 ~ currently** working as an iOS Developer in **PLEDO Inc.**, IoT app service specialized for children's education, in Seoul, Korea.
 - 🔭 alumni from Apple Developer Academy @POSTECH🍎, SeSAC 4th🍀
 - ⚡ Fun fact: Unexpected major in English Linguistics & Literature
 
