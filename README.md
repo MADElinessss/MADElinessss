@@ -27,8 +27,7 @@ Feel free to reach out to me for collaborations or inquiries about my work. Hit 
 - 2023~2024, developed as a team
 - A simple and cute pill reminder app with 12.9K App Store impressions and 804 downloads
 <a href="https://apps.apple.com/kr/app/pim-%ED%95%8C/id6475566113">
-    <img src="![Group 132](https://github.com/user-attachments/assets/f1ed75fb-fbbd-47d6-9f12-656e229864d9)
-" width="300" />
+    <img src=![Group 132](https://github.com/user-attachments/assets/f1ed75fb-fbbd-47d6-9f12-656e229864d9) width="300" />
 </a>
 
 ### 4. 🚀 THE BOYAGE
