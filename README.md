@@ -23,11 +23,19 @@ Feel free to reach out to me for collaborations or inquiries about my work. Hit 
     <img src="https://github.com/MADElinessss/MADElinessss/assets/88757043/b6e12491-ab4d-4404-94f3-17f5ddc2f7b5" width="300" />
 </a>
 
-### 3. 🚀 THE BOYAGE
+### 3. 💚 Pim
+- 2023~2024, developed as a team
+- A simple and cute pill reminder app with 12.9K App Store impressions and 804 downloads
+<a href="https://apps.apple.com/kr/app/pim-%ED%95%8C/id6475566113">
+    <img src="![Group 132](https://github.com/user-attachments/assets/f1ed75fb-fbbd-47d6-9f12-656e229864d9)
+" width="300" />
+</a>
+
+### 4. 🚀 THE BOYAGE
 https://github.com/MADElinessss/TheBoyage
 - 2024, **solo** developed (with real server, not released)
 
-### 4. 🐰 Sagak Sagak
+### 5. 🐰 Sagak Sagak
 - 2023, developed as a team, **Alphacar** (released and available only in Korea)
 <a href="https://apps.apple.com/kr/app/sagaksagak/id6448937856">
     <img src="https://github.com/MADElinessss/MADElinessss/assets/88757043/a1696ef7-4355-4882-b2e1-ffc035194042" width="300" />
